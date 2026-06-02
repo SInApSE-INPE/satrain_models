@@ -10,4 +10,4 @@ O código implementa um pipeline composto pelas seguintes etapas:
   - Estimativa de precipitação;
   - Detecção de precipitação;
 - **Avaliação** do desempenho do modelo por meio de métricas estatísticas como: Bias, MSE, MAE, SMAPE, Coeficiente de correlação linear e Resolução efetiva.
-  - Comparação do desempenho com os baselines: ERA5 e GPROF V7 
+  - Comparação do desempenho do XGBoost com os baselines: ERA5 e GPROF V7.
