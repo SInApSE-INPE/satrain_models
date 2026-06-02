@@ -1,6 +1,6 @@
 # Estimativa e Detecção de Precipitação com XGBoost
 
-Este algoritmo utiliza o benchmark **[SatRain]([https://satrain.readthedocs.io/])**, que consiste em um conjunto de dados que combina observações de satélite e radar para o treinamento e a avaliação de modelos de Machine Learning.  
+Este algoritmo utiliza o benchmark **[SatRain](https://satrain.readthedocs.io/)**, que consiste em um conjunto de dados que combina observações de satélite e radar para o treinamento e a avaliação de modelos de Machine Learning.  
 Para facilitar a implementação, também foi utilizada a biblioteca oficial [SatRain](https://github.com/ipwgml/satrain).
 
 ## Descrição
