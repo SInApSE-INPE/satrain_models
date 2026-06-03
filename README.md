@@ -11,3 +11,6 @@ O código implementa um pipeline composto pelas seguintes etapas:
   - Detecção de precipitação;
 - **Avaliação** do desempenho do modelo por meio de métricas estatísticas como: Bias, MSE, MAE, SMAPE, Coeficiente de correlação linear e Resolução efetiva.
   - Comparação do desempenho do XGBoost com os baselines: ERA5 e GPROF V7.
+ 
+
+Publicação: https://www.even3.com.br/anais/enmc-2025/1270214-satellite-precipitation-estimation--a-comparative-machine-learning-approach/
